@@ -30,8 +30,7 @@ Habit trackers help you to monitor your progress on the positive habits you want
 If you want to stick with a habit for good, one simple and effective thing you can do is keep a habit tracker. Elite performers will often measure, quantify, and track their progress in various ways. Each little measurement provides feedback. It offers a signal of whether they are making progress or need to change course.
 
 ## Getting started
-***
-Firstly you have to download the python 3.10+ version on your operating system. You can download this from python [official website](https://www.python.org/downloads/).
+***Firstly you have to download the python 3.10+ version on your operating system. You can download this from python [official website](https://www.python.org/downloads/).
 
 # Installation
 ***
@@ -62,32 +61,53 @@ python CLI.PY
 
 # Usage
 ***
-Here you can select an option of your choice using the arrow key.
+Here you can see the main screen from where user can select any option using the arrow key
+![welcome screen](https://user-images.githubusercontent.com/77927263/202916597-336fa2c4-e12a-44c4-b2d6-1669efcd4b74.png)
+
 ## Create
 ***
-After selecting the create option you can create any habit simply by putting name, task specification/ description and timespan (eg:- daily or weekly) 
+After selecting the create option you can create any habit simply by putting name, task specification/ description and timespan (eg:- daily or weekly)
+
+![create](https://user-images.githubusercontent.com/77927263/202916716-513d7e7c-9acd-42ea-ada1-8504819f9b55.png)
+
 ## Check off
 ***
 This option will help you to complete your desired tasks
+
+![create](https://user-images.githubusercontent.com/77927263/202916737-65cf1b83-4ebb-4122-85ed-a800b3467564.png)
+
 ## Analyse
 ***
 This functionality will help you to analyse your habits 
 #### All habits
 it will return your all currently tracked habits with name, specification, their creation and current streak.
 
+![all tracked habit](https://user-images.githubusercontent.com/77927263/202916756-7c264b21-d4b7-4b4d-8fd7-d71a78d4e770.png)
+
 #### Habit with same period
 Here you can easily check your progress for different time period. There are two option "daily" or "weekly". You can select any of your choice.
+
+![with same period](https://user-images.githubusercontent.com/77927263/202916780-cc656cf7-0def-44d9-a671-f76e8bc90954.png)
+
 #### Longest streak 
 This option will give you the opportunity to analyse your longest streak for a specific habit. You have to enter the name of the habit that you want to analyse.
+
+![long of specific](https://user-images.githubusercontent.com/77927263/202916801-4073141b-fcb0-44dd-b952-7939fcbf4312.png)
+
 #### Longest of All
 Helps you find your longest streak of all defined habits.
+
 #### Habit logs
 This button will help you to analyse at which habit you struggle the most.
-It shows the all checked_at dates of specified habit. 
+It shows the all checked_at dates of specified habit.
+
+![habit log](https://user-images.githubusercontent.com/77927263/202916815-6039c325-dd53-4907-8bd1-3f40f82f9174.png)
 
 ## Remove 
 ***
 Removes the entered habit from the database.
+
+![remove](https://user-images.githubusercontent.com/77927263/202916827-6b9ad77a-a4bb-4491-9532-6e2519ec0c6f.png)
 
 ## Exit
 ***
