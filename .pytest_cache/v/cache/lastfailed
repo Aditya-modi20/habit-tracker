@@ -1,0 +1,5 @@
+{
+  "test_pro.py::Test_counter::test_counter": true,
+  "test_pro.py::test_counter": true,
+  "test_pro.py::Test_analyse::test_longest": true
+}
